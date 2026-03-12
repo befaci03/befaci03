@@ -1,2 +1,2 @@
-[![Stats GitHub de befaci03](https://github-readme-stats-cgeu10vko-github-readme-stats-team.vercel.app/api?username=befaci03&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-cgeu10vko-github-readme-stats-team.vercel.app/api/top-langs/?username=befaci03&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://github.com/befaci03/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/befaci03/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
